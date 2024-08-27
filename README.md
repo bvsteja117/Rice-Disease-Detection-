@@ -10,6 +10,8 @@ The dataset used in this project is sourced from Kaggle and can be accessed via 
 2. Hispa
 3. LeafBlast
 4. Healthy
+5. Bacterial Leaf Blight
+6. Leaf scald
 
 ## Project Structure
 The project is organized into several sections:
